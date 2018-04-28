@@ -43,7 +43,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>futbolistasrest</finalName>
+		<finalName>futbolistas</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
